@@ -1,0 +1,2 @@
+# Scategories
+Scategories game
